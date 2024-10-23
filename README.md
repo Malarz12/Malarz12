@@ -1,4 +1,4 @@
-<h1 align="left">Jakub Karasek</h1>
+<h1 align="left">Michał Śmiłowski</h1>
 <h2 align="left">Computer Science student</h2>
 I am a second-year computer science student at the Faculty of Mathematics, Informatics, and Mechanics at the University of Warsaw. Keen on music and social sciences.
 
