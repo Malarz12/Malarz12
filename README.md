@@ -1,6 +1,7 @@
 <h1 align="left">Michał Śmiłowski</h1>
 <h2 align="left">Computer Science student</h2>
-I am a second-year computer science student at the Faculty of Mathematics, Informatics, and Mechanics at the University of Warsaw. Keen on music and social sciences.
+I am a second-year computer science student at the Faculty of Mathematics, Informatics, and Mechanics at the University of Warsaw. My primary languages are C and Java. 
+Keen on music and social sciences
 
 <h4 align="left">Looking for an internship</h4>
 
