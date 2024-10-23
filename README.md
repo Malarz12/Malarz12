@@ -2,7 +2,7 @@
 <h2 align="left">Computer Science student</h2>
 I am a second-year computer science student at the Faculty of Mathematics, Informatics, and Mechanics at the University of Warsaw. Keen on music and social sciences.
 
-<h4 align="left">Looking for an internship in Warsaw / Remote</h4>
+<h4 align="left">Looking for an internship</h4>
 
 ***
 - You can reach me at: **[msmilowski05@gmail.com](mailto:msmilowski05@gmail.com)**
